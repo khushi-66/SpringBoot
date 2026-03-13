@@ -5,19 +5,49 @@ This repository contains a collection of **Spring Boot practice projects and con
 The goal of this repository is to explore and understand core Spring Boot features, REST API development, and backend architecture through hands-on practice.
 
 ---
+## ⚙️ Prerequisites
+
+Make sure the following tools are installed:
+
+* Java JDK 17 or higher
+* Maven
+* MySQL (for database examples)
+* IDE (IntelliJ IDEA / Eclipse)
+
+---
+
+## ▶️ Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/khushi-66/SpringBoot.git
+
+2. Open the project in your IDE.
+
+3. Build the project using Maven
+
+mvn clean install
+
+4. Run the Spring Boot application
+
+mvn spring-boot:run
 
 ## Key Concepts Covered
 
+* Spring Boot Project Setup
 * Spring Boot Fundamentals
 * REST API Development
+* Spring Boot Actuator
 * MVC Architecture
 * Dependency Injection
 * CRUD Operations
+* Exception Handling
+* Spring Boot Annotations
+* 
 * MicroService Architecture
 * Spring Data JPA
 * Layered Architecture (Controller, Service, Repository)
 * Application Configuration
-
 ---
 
 ## Tech Stack
