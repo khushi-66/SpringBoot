@@ -42,9 +42,9 @@ Each directory represents a small practice project or a concept-based implementa
 
 Example:
 
-p ->   Core Spring and Spring Data JPA 
-r ->   RestAPI and spring mvc
-M ->   MicroServices
+ * p ->   Core Spring and Spring Data JPA 
+ * r ->   RestAPI and spring mvc
+ *  M ->   MicroServices
 
 ---
 
