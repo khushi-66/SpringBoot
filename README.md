@@ -30,7 +30,7 @@ mvn clean install
 
 4. Run the Spring Boot application
 
-mvn spring-boot:run
+right click run as Springboot app
 
 ## Key Concepts Covered
 
