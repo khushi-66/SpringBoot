@@ -43,7 +43,7 @@ right click  -->  run as   --> Springboot app
 * CRUD Operations
 * Exception Handling
 * Spring Boot Annotations
-* 
+* Spring Security
 * MicroService Architecture
 * Spring Data JPA
 * Layered Architecture (Controller, Service, Repository)
@@ -72,9 +72,10 @@ Each directory represents a small practice project or a concept-based implementa
 
 Example:
 
- * p ->   Core Spring and Spring Data JPA 
- * r ->   RestAPI and spring mvc
+ * p ->    Core Spring and Spring Data JPA 
+ * r ->    RestAPI and spring mvc
  *  M ->   MicroServices
+ *  S ->   Spring security
 
 ---
 
