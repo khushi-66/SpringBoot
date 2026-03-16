@@ -12,4 +12,4 @@ public class P16Application {
 	}
 
 }
-//  Runners classes ----> execute code only once when application context ready and application not startedgit
+//  Runners classes ----> execute code only once when application context ready and application not startedgitbean
